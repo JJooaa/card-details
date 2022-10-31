@@ -1,4 +1,4 @@
-# card-details
+# card-details (MOBILE ONLY)
 
 Frontendmentor.io challenge once again 
 
